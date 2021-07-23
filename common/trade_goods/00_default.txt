@@ -56,7 +56,7 @@ horses = { #276 territories
 	
 	province = {
 		local_output_modifier = 0.01,
-		army_weight_modifier = -0.01
+		army_weight_modifier = -0.005
 	}
 	country = {
 		light_cavalry_discipline = 0.1
@@ -249,7 +249,7 @@ steppe_horses = { #90 territories
 	
 	province = {
 		local_output_modifier = 0.01
-		army_weight_modifier = -0.02
+		army_weight_modifier = -0.01
 	}
 	country = {
 		horse_archers_discipline = 0.1
