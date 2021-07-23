@@ -1,4 +1,4 @@
-grain = { #430 territories
+﻿grain = { #430 territories
 	category = 1
 
 	gold = 0.01
@@ -249,7 +249,7 @@ steppe_horses = { #90 territories
 		local_output_modifier = 0.02
 	}
 	country = {
-		horse_archers_discipline = 0.1,
+		horse_archers_discipline = 0.1
 		chariots_discipline = 0.1
 	}
 	

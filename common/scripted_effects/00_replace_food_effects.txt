@@ -1,4 +1,4 @@
-replace_food_after_city_upgrade_effect = {
+﻿replace_food_after_city_upgrade_effect = {
 	# $VARIABLE_OR_SET_TRADE_GOODS$ will make this either set a variable for which trade good or actually change it. The later is only used to show a tooltip on the button but this is kept as one effect to make sure functionality is always the same between tooltip and outcome.
 	#The actual trade good change is done in the event state_improvement.6
 	random_list = { #If set_variable is used it must be cleared, use the scripted effect after!
